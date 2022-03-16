@@ -32,6 +32,9 @@
     "react-native": ">= 0.25",
     "@react-native-picker/picker": ">= 2.0"
   },
+  "devDependencies": {
+    "@react-native-picker/picker": "^2.1.0"
+  },
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
   "license": "MIT",
   "bugs": {
